@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Sep 19 17:11:49 2022
+# Process ID: 20312
+# Current directory: C:/Users/USER/Desktop/6학기/컴퓨터공학실험II (CSE3016-04)/3주차/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22652 C:\Users\USER\Desktop\6학기\컴퓨터공학실험II (CSE3016-04)\3주차\project_1\project_1.xpr
+# Log file: C:/Users/USER/Desktop/6학기/컴퓨터공학실험II (CSE3016-04)/3주차/project_1/vivado.log
+# Journal file: C:/Users/USER/Desktop/6학기/컴퓨터공학실험II (CSE3016-04)/3주차/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Sep 19 17:12:36 2022...
